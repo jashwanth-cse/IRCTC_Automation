@@ -1,4 +1,5 @@
 # IRCTC_Automation
+**This automation is intended for educational purposes only.**
 This automation code is designed to work only when Chrome WebDriver and the necessary Python libraries are installed.
 Please ensure the following before running the script:
 Chrome WebDriver is installed and its path is added to the system environment variables.
